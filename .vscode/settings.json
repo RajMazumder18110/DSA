@@ -1,0 +1,17 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "typescript": false,
+        "javascript": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.unotation": true
+    },
+    "bigUML.hideUnotation": true
+}
